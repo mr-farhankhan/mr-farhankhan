@@ -8,9 +8,9 @@
      ───────────────────────────────────────────────────────────────────────
      K H A N   ·   C Y B E R S E C U R I T Y   &   W E B
      ───────────────────────────────────────────────────────────────────────
-     README · v3.1 · profile picture removed
+     README · v4.0 · clean pass
      Palette · #0F172A · #0F766E · #14B8A6 · #0EA5E9 · #6366F1 · #64748B
-     Rules   · no gradients · SVG first · calm · cool · rounded
+     Rules   · no gradients · SVG first · calm · cool · rounded · no redirects
      ───────────────────────────────────────────────────────────────────────
 -->
 
@@ -25,6 +25,19 @@
   src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3400&pause=900&color=14B8A6&center=true&vCenter=true&width=720&height=62&lines=Hi%2C+I'm+Farhan+Khan;Cybersecurity+Enthusiast+%26+Penetration+Tester;Top+1%25+on+TryHackMe;Web+App+Security+%26+Active+Directory;Always+Learning%2C+Always+Building"
   alt="Farhan Khan — Cybersecurity & Penetration Testing"
 />
+
+<br /><br />
+
+<img
+  src="https://img.shields.io/badge/Open_to-Jobs_·_Internships_·_Bug_Bounty_·_Freelance_Work-0F766E?style=for-the-badge&labelColor=0F172A"
+  alt="Open to Jobs, Internships, Bug Bounty, Freelance Work"
+/>
+
+<br /><br />
+
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%2314B8A6&width=20" alt="" />
+&nbsp;&nbsp;
+<strong>farhancyber.vercel.app</strong>
 
 </div>
 
@@ -50,25 +63,15 @@
 
 <div align="center">
 
-<a href="https://farhancyber.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 &nbsp;
-<a href="https://github.com/mr-farhankhan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 &nbsp;
-<a href="https://www.linkedin.com/in/farhancyber" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 &nbsp;
-<a href="https://medium.com/@Farhancyber" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
+<img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 &nbsp;
-<a href="https://tryhackme.com/p/Farhankhann" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</a>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 
 </div>
 
@@ -102,6 +105,9 @@
   I'm a cybersecurity enthusiast focused on offensive security and web application security — exploring, learning, and building through hands-on labs, CTFs, and security projects. Top 1% on TryHackMe, publishing technical research and writing about real-world security work.
 </p>
 
+<p align="center">
+  I care about clean interfaces, honest documentation, and tools that do one thing well. Security isn't a feature I bolt on at the end — it's the shape of the thing from the first line.
+</p>
 
 <br />
 
@@ -128,7 +134,7 @@
     <td align="right">
       <img src="https://api.iconify.design/lucide:coffee.svg?color=%2364748B&width=18" alt="" />
     </td>
-    <td align="left"><sub><strong>Open to</strong> &nbsp;Collaboration, CTFs, bug bounty, freelance work</sub></td>
+    <td align="left"><sub><strong>Open to</strong> &nbsp;Jobs, Internships, Bug Bounty, Freelance Work</sub></td>
   </tr>
 </table>
 
@@ -196,124 +202,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     07 · TOOLKIT
-     ─────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://api.iconify.design/lucide:wrench.svg?color=%230F766E&width=20" alt="" />
-&nbsp;
-<strong>TOOLKIT</strong>
-
-</div>
-
-<br />
-
-<p align="center">
-  <sub><strong>LANGUAGES</strong></sub>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" alt="Python" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" height="30" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="30" height="30" alt="C" title="C" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" height="30" alt="C++" title="C++" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30" height="30" alt="Bash" title="Bash" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="30" height="30" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="30" height="30" alt="CSS3" title="CSS3" />
-</p>
-
-<br />
-
-<p align="center">
-  <sub><strong>SECURITY</strong></sub>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="30" height="30" alt="Kali Linux" title="Kali Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" height="30" alt="Linux" title="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="30" height="30" alt="Wireshark" title="Wireshark" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/torproject/7D4698" width="30" height="30" alt="Tor" title="Tor" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="30" height="30" alt="TryHackMe" title="TryHackMe" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/lucide:key-round.svg?color=%2314B8A6&width=30" alt="Keys" title="Cryptography" />
-  &nbsp;&nbsp;
-  <img src="https://api.iconify.design/lucide:network.svg?color=%230EA5E9&width=30" alt="Network" title="Networking" />
-</p>
-
-<br />
-
-<p align="center">
-  <sub><strong>WEB &amp; BACKEND</strong></sub>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" alt="React" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/0F172A" width="30" height="30" alt="Next.js" title="Next.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" height="30" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/0F172A" width="30" height="30" alt="Express" title="Express" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" alt="Tailwind" title="Tailwind CSS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flask/0F172A" width="30" height="30" alt="Flask" title="Flask" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" height="30" alt="MongoDB" title="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" height="30" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" height="30" alt="PostgreSQL" title="PostgreSQL" />
-</p>
-
-<br />
-
-<p align="center">
-  <sub><strong>TOOLS &amp; PLATFORM</strong></sub>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="30" height="30" alt="Git" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/0F172A" width="30" height="30" alt="GitHub" title="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" alt="Docker" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="30" height="30" alt="Nginx" title="Nginx" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/0F172A" width="30" height="30" alt="Vercel" title="Vercel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="30" height="30" alt="Cloudflare" title="Cloudflare" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" height="30" alt="Postman" title="Postman" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" height="30" alt="VS Code" title="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" height="30" alt="Figma" title="Figma" />
-</p>
-
-<br />
-
-<img src="https://img.shields.io/badge/%20-%20-E2E8F0?style=flat-square" width="100%" height="3" alt="" />
-
-<br />
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     08 · EXPERIENCE
+     07 · EXPERIENCE
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -384,7 +273,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     09 · ACHIEVEMENTS
+     08 · ACHIEVEMENTS
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -438,68 +327,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     10 · NUMBERS
-     ─────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://api.iconify.design/lucide:activity.svg?color=%230F766E&width=20" alt="" />
-&nbsp;
-<strong>NUMBERS</strong>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-  height="164"
-  src="https://github-readme-stats.vercel.app/api?username=mr-farhankhan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=F8FAFC&title_color=0F766E&icon_color=14B8A6&text_color=475569&ring_color=14B8A6"
-  alt="GitHub stats"
-/>
-&nbsp;&nbsp;
-<img
-  height="164"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-farhankhan&layout=compact&hide_border=true&langs_count=8&bg_color=F8FAFC&title_color=0F766E&text_color=475569"
-  alt="Top languages"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://streak-stats.demolab.com?user=mr-farhankhan&hide_border=true&background=F8FAFC&stroke=E2E8F0&ring=14B8A6&fire=0EA5E9&currStreakLabel=0F766E&sideLabels=475569&dates=94A3B8&currStreakNum=0F172A&sideNums=0F172A"
-  alt="Streak"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mr-farhankhan&bg_color=F8FAFC&color=0F766E&line=14B8A6&point=0EA5E9&area=false&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Activity graph"
-/>
-
-</div>
-
-<br />
-
-<img src="https://img.shields.io/badge/%20-%20-E2E8F0?style=flat-square" width="100%" height="3" alt="" />
-
-<br />
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     11 · PROJECTS
+     09 · PROJECTS
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -516,7 +344,7 @@
   <tr>
     <td width="420" valign="top">
       <img src="https://api.iconify.design/lucide:shield-half.svg?color=%2314B8A6&width=22" alt="" />
-      &nbsp;<strong>MalTracker</strong>
+      &nbsp;<strong>ThreatTrace</strong>
       <br /><br />
       <sub>
         Malicious banking app detector using static and behavioural analysis.
@@ -542,9 +370,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/mr-farhankhan?tab=repositories">
-    <img src="https://img.shields.io/badge/See_all_repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
-  </a>
+  <img src="https://img.shields.io/badge/See_all_repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
 </div>
 
 <br />
@@ -555,7 +381,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     12 · WRITEUPS
+     10 · WRITEUPS
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -596,17 +422,25 @@
       <br /><br />
       <sub>Comprehensive guide to AAA protocols.</sub>
     </td>
-    <td width="280" valign="top"></td>
-    <td width="280" valign="top"></td>
+    <td width="280" valign="top">
+      <img src="https://api.iconify.design/lucide:globe.svg?color=%2314B8A6&width=20" alt="" />
+      &nbsp;<strong>SSRF — Bypassing Filters &amp; Cloud Metadata</strong>
+      <br /><br />
+      <sub>Server-Side Request Forgery chains that reach cloud metadata endpoints — filters, encodings, and real-world impact.</sub>
+    </td>
+    <td width="280" valign="top">
+      <img src="https://api.iconify.design/lucide:certificate.svg?color=%230EA5E9&width=20" alt="" />
+      &nbsp;<strong>ADCS Abuse — ESC1 to ESC8</strong>
+      <br /><br />
+      <sub>Active Directory Certificate Services misconfigurations and how attackers escalate to Domain Admin.</sub>
+    </td>
   </tr>
 </table>
 
 <br />
 
 <div align="center">
-  <a href="https://farhancyber.vercel.app/pages/writeups/index.html">
-    <img src="https://img.shields.io/badge/Read_all_writeups-0EA5E9?style=for-the-badge&logo=medium&logoColor=white" alt="Writeups" />
-  </a>
+  <img src="https://img.shields.io/badge/Read_all_writeups-0EA5E9?style=for-the-badge&logo=medium&logoColor=white" alt="Writeups" />
 </div>
 
 <br />
@@ -617,7 +451,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     13 · CERTIFICATIONS
+     11 · CERTIFICATIONS
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -664,7 +498,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     14 · RIGHT NOW
+     12 · RIGHT NOW
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -712,7 +546,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     15 · CONNECT
+     13 · CONNECT
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -726,35 +560,44 @@
 <br />
 
 <p align="center">
-  <sub>Open to collaboration, CTF teams, freelance security work<br />
-  and any conversation that starts with "I found something weird…"</sub>
+  <sub>Open to Jobs, Internships, Bug Bounty, and Freelance security work.<br />
+  Reach out on any of the platforms below.</sub>
 </p>
 
 <br />
 
-<div align="center">
-
-<a href="https://farhancyber.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/farhancyber.vercel.app-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
-</a>
-&nbsp;
-<a href="https://github.com/mr-farhankhan" target="_blank">
-  <img src="https://img.shields.io/badge/mr--farhankhan-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/farhancyber" target="_blank">
-  <img src="https://img.shields.io/badge/in%2Ffarhancyber-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://medium.com/@Farhancyber" target="_blank">
-  <img src="https://img.shields.io/badge/%40Farhancyber-0F172A?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
-</a>
-&nbsp;
-<a href="https://tryhackme.com/p/Farhankhann" target="_blank">
-  <img src="https://img.shields.io/badge/Farhankhann-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</a>
-
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="right">
+      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2314B8A6&width=18" alt="" />
+    </td>
+    <td align="left"><sub><strong>Portfolio</strong> &nbsp;farhancyber.vercel.app</sub></td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://api.iconify.design/lucide:github.svg?color=%2364748B&width=18" alt="" />
+    </td>
+    <td align="left"><sub><strong>GitHub</strong> &nbsp;github.com/mr-farhankhan</sub></td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://api.iconify.design/lucide:linkedin.svg?color=%230A66C2&width=18" alt="" />
+    </td>
+    <td align="left"><sub><strong>LinkedIn</strong> &nbsp;linkedin.com/in/farhancyber</sub></td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://api.iconify.design/lucide:pen-line.svg?color=%230F172A&width=18" alt="" />
+    </td>
+    <td align="left"><sub><strong>Medium</strong> &nbsp;medium.com/@Farhancyber</sub></td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://api.iconify.design/lucide:flag.svg?color=%23212C42&width=18" alt="" />
+    </td>
+    <td align="left"><sub><strong>TryHackMe</strong> &nbsp;tryhackme.com/p/Farhankhann</sub></td>
+  </tr>
+</table>
 
 <br />
 
@@ -772,7 +615,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     16 · QUOTE
+     14 · QUOTE
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -792,7 +635,7 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     17 · FOOTER
+     15 · FOOTER
      ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -802,7 +645,7 @@
 <br /><br />
 
 <sub>
-  Built by hand · <strong>Farhan Khan</strong> · <a href="https://farhancyber.vercel.app">farhancyber.vercel.app</a>
+  Built by hand · <strong>Farhan Khan</strong> · farhancyber.vercel.app
 </sub>
 
 <br /><br />
