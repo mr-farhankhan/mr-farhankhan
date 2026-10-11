@@ -1,4 +1,3 @@
-Here's a complete README.md for Farhan Khan's GitHub profile, built with calm cool tones, solid colors, and no gradients. The code is ready to copy and paste.
 
 ```markdown
 <!-- ═══════════════════════════════════════════════════════════════════════════
