@@ -102,9 +102,6 @@
   I'm a cybersecurity enthusiast focused on offensive security and web application security — exploring, learning, and building through hands-on labs, CTFs, and security projects. Top 1% on TryHackMe, publishing technical research and writing about real-world security work.
 </p>
 
-<p align="center">
-  I care about clean interfaces, honest documentation, and tools that do one thing well. Security isn't a feature I bolt on at the end — it's the shape of the thing from the first line.
-</p>
 
 <br />
 
